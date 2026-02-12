@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=George%20Pickett&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+
 <div align="center">
 
 # George Pickett
@@ -21,7 +23,7 @@
 </div>
 
 <p align="center">
-<a href="#what-im-building-now">Building Now</a> · <a href="#codex-sf">Codex SF</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#current-focus">Current Focus</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a>
+<a href="#what-im-building-now">Building Now</a> · <a href="#codex-sf">Codex SF</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#star-history">Star History</a> · <a href="#current-focus">Current Focus</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a>
 </p>
 
 <p align="center">
@@ -63,6 +65,14 @@ It features technical demos focused entirely on agentic coding workflows, with e
 | ![Stars](https://img.shields.io/github/stars/grp06/claude-code-leaderboard?style=flat-square&label=%E2%AD%90) | [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) | Usage tracking + public leaderboard workflow for Claude Code sessions. |
 | ![Stars](https://img.shields.io/github/stars/grp06/useful-codex-skills?style=flat-square&label=%E2%AD%90) | [**useful-codex-skills**](https://github.com/grp06/useful-codex-skills) | Curated Codex skills for planning, architecture, and PR execution workflows. |
 | ![Stars](https://img.shields.io/github/stars/grp06/recursive-codex?style=flat-square&label=%E2%AD%90) | [**recursive-codex**](https://github.com/grp06/recursive-codex) | Screenshot-to-feedback-to-code pipeline for frontend improvement loops. |
+
+## Star History
+
+<p align="center">
+  <a href="https://star-history.com/#grp06/openclaw-studio&grp06/claude-code-leaderboard&grp06/useful-codex-skills&Date">
+    <img src="https://api.star-history.com/svg?repos=grp06/openclaw-studio,grp06/claude-code-leaderboard,grp06/useful-codex-skills&type=Date&theme=dark" width="100%" alt="Star history for core projects" />
+  </a>
+</p>
 
 ## Current Focus
 
