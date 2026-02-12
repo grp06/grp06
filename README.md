@@ -2,16 +2,12 @@
 
 <div align="center">
 
-# George Pickett
-
 **San Francisco** · **OpenClaw Maintainer** · **Building practical multi-agent systems**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
 ![Node.js](https://img.shields.io/badge/-Node.js-2b2b2b?style=flat-square&logo=node.js&logoColor=339933)
-![OpenAI](https://img.shields.io/badge/-OpenAI-2b2b2b?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)
 ![CLI](https://img.shields.io/badge/-CLI-2b2b2b?style=flat-square&logo=gnubash&logoColor=white)
 
 *I build tools that help teams ship with coding agents faster and with fewer coordination headaches.*
@@ -69,8 +65,8 @@ It features technical demos focused entirely on agentic coding workflows, with e
 ## Star History
 
 <p align="center">
-  <a href="https://star-history.com/#grp06/openclaw-studio&grp06/claude-code-leaderboard&grp06/useful-codex-skills&Date">
-    <img src="https://api.star-history.com/svg?repos=grp06/openclaw-studio,grp06/claude-code-leaderboard,grp06/useful-codex-skills&type=Date&theme=dark" width="100%" alt="Star history for core projects" />
+  <a href="https://star-history.com/#grp06/openclaw-studio&Date">
+    <img src="https://api.star-history.com/svg?repos=grp06/openclaw-studio&type=Date&theme=dark" width="100%" alt="Star history for openclaw-studio" />
   </a>
 </p>
 
