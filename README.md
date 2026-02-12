@@ -68,17 +68,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=grp06&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=grp06&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=grp06&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=grp06&theme=github-light&hide_border=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=grp06&theme=github-dark&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=grp06&theme=github-dark&hide_border=true" width="100%" alt="Contribution streak stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grp06&theme=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grp06&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grp06&theme=github_dark" width="100%" alt="GitHub activity timeline with labeled dates" />
   </picture>
 </p>
 
