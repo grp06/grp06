@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-<a href="#what-im-building-now">Building Now</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#current-focus">Current Focus</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a>
+<a href="#what-im-building-now">Building Now</a> · <a href="#codex-sf">Codex SF</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#current-focus">Current Focus</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a>
 </p>
 
 <p align="center">
@@ -43,10 +43,16 @@
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [**OpenClaw Studio**](https://github.com/grp06/openclaw-studio) | TypeScript / Next.js | Dashboard for managing OpenClaw agents through the OpenClaw Gateway (WebSocket). |
-| [**Claude Code Leaderboard**](https://github.com/grp06/claude-code-leaderboard) | JavaScript / CLI | Tracks Claude Code token usage and publishes leaderboard stats automatically. |
-| [**codex-ralph**](https://github.com/grp06/codex-ralph) | Shell / Agent Ops | Turns Codex into a durable long-running teammate with ExecPlan-driven loops. |
-| [**The Altman Index**](https://github.com/grp06/the-altman-index) | Python / FastAPI / RAG | Transparent RAG playground for Sam Altman interviews with inspectable retrieval and synthesis. |
+| [**OpenClawStudio**](https://github.com/grp06/openclaw-studio) | TypeScript / Next.js | Dashboard for managing OpenClaw agents through the OpenClaw Gateway (WebSocket). |
+| [**useful-codex-skills**](https://github.com/grp06/useful-codex-skills) | Skills / Workflow | Reusable Codex skills for planning, automation, architecture, multi-agent coordination, and PR workflows. |
+
+## Codex SF
+
+Codex SF is a high signal meetup for engineers and founders actively using Codex in real production workflows.
+
+It features technical demos focused entirely on agentic coding workflows, with engineers walking through how they actually use skills, automations, planning systems, multi-agent coordination, and review loops inside Codex.
+
+- Calendar: [Codex SF on Luma](https://luma.com/calendar/manage/cal-PKTAt8IpN9ZHTFK)
 
 ## Open Source Highlights
 
