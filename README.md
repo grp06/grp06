@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**grp06/grp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# George Pickett
 
-Here are some ideas to get you started:
+**San Francisco** · **OpenClaw Maintainer** · **Building practical multi-agent systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/-Node.js-2b2b2b?style=flat-square&logo=node.js&logoColor=339933)
+![OpenAI](https://img.shields.io/badge/-OpenAI-2b2b2b?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)
+![CLI](https://img.shields.io/badge/-CLI-2b2b2b?style=flat-square&logo=gnubash&logoColor=white)
+
+*I build tools that help teams ship with coding agents faster and with fewer coordination headaches.*
+
+[![X](https://img.shields.io/badge/-@georgepickett-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/georgepickett)
+[![GitHub](https://img.shields.io/badge/-grp06-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/grp06)
+[![Email](https://img.shields.io/badge/-gpickett00@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gpickett00@gmail.com)
+
+</div>
+
+<p align="center">
+<a href="#what-im-building-now">Building Now</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#current-focus">Current Focus</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=grp06&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=grp06&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=grp06&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" width="49%" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grp06&layout=compact&hide_border=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grp06&layout=compact&hide_border=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grp06&layout=compact&hide_border=true&theme=tokyonight" width="49%" alt="Top languages" />
+  </picture>
+</p>
+
+---
+
+## What I'm Building Now
+
+| Project | Stack | What it does |
+| --- | --- | --- |
+| [**OpenClaw Studio**](https://github.com/grp06/openclaw-studio) | TypeScript / Next.js | Dashboard for managing OpenClaw agents through the OpenClaw Gateway (WebSocket). |
+| [**Claude Code Leaderboard**](https://github.com/grp06/claude-code-leaderboard) | JavaScript / CLI | Tracks Claude Code token usage and publishes leaderboard stats automatically. |
+| [**codex-ralph**](https://github.com/grp06/codex-ralph) | Shell / Agent Ops | Turns Codex into a durable long-running teammate with ExecPlan-driven loops. |
+| [**The Altman Index**](https://github.com/grp06/the-altman-index) | Python / FastAPI / RAG | Transparent RAG playground for Sam Altman interviews with inspectable retrieval and synthesis. |
+
+## Open Source Highlights
+
+| Stars | Project | Description |
+| --- | --- | --- |
+| ![Stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=flat-square&label=%E2%AD%90) | [**openclaw-studio**](https://github.com/grp06/openclaw-studio) | Multi-agent control center for OpenClaw. |
+| ![Stars](https://img.shields.io/github/stars/grp06/cursor-boost?style=flat-square&label=%E2%AD%90) | [**cursor-boost**](https://github.com/grp06/cursor-boost) | CLI for generating and maintaining `.cursorrules` from live system/project context. |
+| ![Stars](https://img.shields.io/github/stars/grp06/claude-code-leaderboard?style=flat-square&label=%E2%AD%90) | [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) | Usage tracking + public leaderboard workflow for Claude Code sessions. |
+| ![Stars](https://img.shields.io/github/stars/grp06/useful-codex-skills?style=flat-square&label=%E2%AD%90) | [**useful-codex-skills**](https://github.com/grp06/useful-codex-skills) | Curated Codex skills for planning, architecture, and PR execution workflows. |
+| ![Stars](https://img.shields.io/github/stars/grp06/recursive-codex?style=flat-square&label=%E2%AD%90) | [**recursive-codex**](https://github.com/grp06/recursive-codex) | Screenshot-to-feedback-to-code pipeline for frontend improvement loops. |
+
+## Current Focus
+
+- Make OpenClaw Studio the best daily driver for multi-agent software workflows.
+- Improve reliability and observability in long-running coding-agent systems.
+- Share reusable workflows and tools that help teams ship faster with AI agents.
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/grp06)
+
+## Connect
+
+- X: [@georgepickett](https://x.com/georgepickett)
+- GitHub: [github.com/grp06](https://github.com/grp06)
+- Email: [gpickett00@gmail.com](mailto:gpickett00@gmail.com)
