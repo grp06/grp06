@@ -66,7 +66,7 @@ It features technical demos focused entirely on agentic coding workflows, with e
 
 <p align="center">
   <a href="https://star-history.com/#grp06/openclaw-studio&Date">
-    <img src="https://api.star-history.com/svg?repos=grp06/openclaw-studio&type=Date&theme=light&v=20260228" width="100%" alt="Star history for openclaw-studio" />
+    <img src="https://api.star-history.com/svg?repos=grp06/openclaw-studio&type=Date&theme=light&v=20260301" width="100%" alt="Star history for openclaw-studio" />
   </a>
 </p>
 
