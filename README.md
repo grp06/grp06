@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-<a href="#what-im-building-now">Building Now</a> · <a href="#codex-sf">Codex SF</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#star-history">Star History</a> · <a href="#current-focus">Current Focus</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a>
+<a href="#recent-projects">Recent Projects</a> · <a href="#codex-sf">Codex SF</a> · <a href="#open-source-highlights">Open Source</a> · <a href="#recent-contributions">Contributions</a> · <a href="#current-focus">Current Focus</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a>
 </p>
 
 <p align="center">
@@ -37,10 +37,12 @@
 
 ---
 
-## What I'm Building Now
+## Recent Projects
 
 | Project | Stack | What it does |
 | --- | --- | --- |
+| [**Goalcraft**](https://github.com/grp06/goalcraft) | Python / Codex skill | Turns messy task descriptions into compact, verifiable Codex `/goal` prompts. |
+| [**FOIA Request Creator**](https://github.com/grp06/foia-request-creator) | Skills / Research | Evidence-first workflow for turning public-records leads into focused FOIA request drafts. |
 | [**OpenClawStudio**](https://github.com/grp06/openclaw-studio) | TypeScript / Next.js | Dashboard for managing OpenClaw agents through the OpenClaw Gateway (WebSocket). |
 | [**useful-codex-skills**](https://github.com/grp06/useful-codex-skills) | Skills / Workflow | Reusable Codex skills for planning, automation, architecture, multi-agent coordination, and PR workflows. |
 
@@ -57,24 +59,28 @@ It features technical demos focused entirely on agentic coding workflows, with e
 | Stars | Project | Description |
 | --- | --- | --- |
 | ![Stars](https://img.shields.io/github/stars/grp06/openclaw-studio?style=flat-square&label=%E2%AD%90) | [**openclaw-studio**](https://github.com/grp06/openclaw-studio) | Multi-agent control center for OpenClaw. |
+| ![Stars](https://img.shields.io/github/stars/grp06/slop-janitor?style=flat-square&label=%E2%AD%90) | [**slop-janitor**](https://github.com/grp06/slop-janitor) | Repeatable multi-turn Codex refactor loop. |
+| ![Stars](https://img.shields.io/github/stars/grp06/goalcraft?style=flat-square&label=%E2%AD%90) | [**goalcraft**](https://github.com/grp06/goalcraft) | Codex skill for writing sharper `/goal` prompts. |
 | ![Stars](https://img.shields.io/github/stars/grp06/cursor-boost?style=flat-square&label=%E2%AD%90) | [**cursor-boost**](https://github.com/grp06/cursor-boost) | CLI for generating and maintaining `.cursorrules` from live system/project context. |
 | ![Stars](https://img.shields.io/github/stars/grp06/claude-code-leaderboard?style=flat-square&label=%E2%AD%90) | [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) | Usage tracking + public leaderboard workflow for Claude Code sessions. |
 | ![Stars](https://img.shields.io/github/stars/grp06/useful-codex-skills?style=flat-square&label=%E2%AD%90) | [**useful-codex-skills**](https://github.com/grp06/useful-codex-skills) | Curated Codex skills for planning, architecture, and PR execution workflows. |
 | ![Stars](https://img.shields.io/github/stars/grp06/recursive-codex?style=flat-square&label=%E2%AD%90) | [**recursive-codex**](https://github.com/grp06/recursive-codex) | Screenshot-to-feedback-to-code pipeline for frontend improvement loops. |
 
-## Star History
+## Recent Contributions
 
-<p align="center">
-  <a href="https://star-history.com/#grp06/openclaw-studio&Date">
-    <img src="https://api.star-history.com/svg?repos=grp06/openclaw-studio&type=Date&theme=light&v=20260301" width="100%" alt="Star history for openclaw-studio" />
-  </a>
-</p>
+| Project | Recent contribution |
+| --- | --- |
+| [**self-evolving/repo**](https://github.com/self-evolving/repo/pull/357) | Avoided duplicate model flags for session runs. |
+| [**sapientinc/HRM-Text**](https://github.com/sapientinc/HRM-Text/pull/2) | Fixed ARC evaluation label mapping for numeric choice IDs. |
+| [**crusoecloud/fastokens**](https://github.com/crusoecloud/fastokens/pull/34) | Fixed padded `type_ids` in Python encode paths. |
+| [**zapier/sdk**](https://github.com/zapier/sdk/pull/4) | Updated input-field discovery names. |
+| [**Siddhant-K-code/agent-trace**](https://github.com/Siddhant-K-code/agent-trace/pull/80) | Fixed latest-session selection by start time. |
 
 ## Current Focus
 
-- Make OpenClaw Studio the best daily driver for multi-agent software workflows.
-- Improve reliability and observability in long-running coding-agent systems.
-- Share reusable workflows and tools that help teams ship faster with AI agents.
+- Make Codex skills easier to specify, verify, and reuse across long-running work.
+- Improve reliability and observability in coding-agent systems.
+- Contribute small, concrete fixes to AI, agent, and developer-tooling projects.
 
 ## GitHub Activity
 
