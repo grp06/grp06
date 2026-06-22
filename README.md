@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**San Francisco** · **OpenClaw Maintainer** · **Building practical multi-agent systems**
+**San Francisco** · **Building practical multi-agent systems**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E)
